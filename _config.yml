@@ -1,4 +1,4 @@
 title: Mohamed Essam
 logo: /assets/img/me.png
-description: [Download My CV](./assets/cv/cv.pdf)
+show_downloads: true
 theme: jekyll-theme-minimal
